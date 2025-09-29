@@ -1,0 +1,8 @@
+User must keep the logo.png and way_of_life.py in the same folder.
+This is necessary for the game to display the custom logo correctly.
+
+The game uses CustomTkinter and Tkinter.
+Tkinter comes pre-installed with Python, so no installation needed.
+CustomTkinter needs to be installed manually.
+Install CustomTkinter via pip:
+pip install customtkinter
